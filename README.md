@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @efeyagizz
-- 👀 I’m interested in react projects right now,
-- 🌱 I’m currently learning react
+- 👀 I’m interested in web and mobile development,
+- 🌱 I’m currently learning swift
 
 <!---
 efeyagizz/efeyagizz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
